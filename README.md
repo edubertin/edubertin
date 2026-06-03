@@ -6,26 +6,26 @@ I build apps from idea to shipped product: mobile experience, backend rules, dat
 
 **PT-BR:** eu construo produtos mobile-first de ponta a ponta, juntando app, backend, IA, QA, loja e operacao.
 
-<table>
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td align="center" valign="top" width="300">
       <a href="https://mov-arena.eduardobertin.com.br">
-        <img src="https://mov-arena.eduardobertin.com.br/assets/images/login-background.png" alt="MOV Arena" width="100%" />
+        <img src="https://mov-arena.eduardobertin.com.br/assets/images/login-background.png" alt="MOV Arena" width="260" />
       </a>
     </td>
-    <td width="50%" valign="top">
+    <td align="center" valign="top" width="300">
       <a href="https://pique-esconde.eduardobertin.com.br">
-        <img src="https://raw.githubusercontent.com/edubertin/Pique-esconde/main/apps/mobile/assets/images/pique-esconde-store-cover.png" alt="Pique Esconde" width="100%" />
+        <img src="https://raw.githubusercontent.com/edubertin/Pique-esconde/main/apps/mobile/assets/images/pique-esconde-menu-reference.png" alt="Pique Esconde" width="260" />
       </a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top" width="300">
       <strong>MOV Arena</strong><br />
       Premium gamified fitness challenge app for studios.<br />
       <a href="https://mov-arena.eduardobertin.com.br">Public site</a>
     </td>
-    <td width="50%" valign="top">
+    <td valign="top" width="300">
       <strong>Pique Esconde</strong><br />
       Physical-digital hide-and-seek game with GPS proximity radar.<br />
       <a href="https://pique-esconde.eduardobertin.com.br">Web demo</a> / <a href="https://github.com/edubertin/Pique-esconde">Repository</a>
