@@ -1,129 +1,112 @@
-<p align="center">
-  <img src="https://mov-arena.eduardobertin.com.br/assets/images/login-background.png" alt="MOV Arena visual" width="900" />
-</p>
-
 # Eduardo Bertin
 
-**PT-BR**
+**Mobile/full-stack product builder** working with **Expo, React Native, TypeScript, Supabase, AI workflows, QA, and release operations**.
 
-Eu construo produtos mobile-first com **Expo, React Native, TypeScript, Supabase e IA aplicada**. Meu foco atual e transformar ideias em apps reais: arquitetura, banco, autenticacao, seguranca, experiencia mobile, QA, build, loja e operacao.
+I build apps from idea to shipped product: mobile experience, backend rules, data modeling, AI-assisted flows, privacy constraints, store readiness, and production support.
 
-Nos ultimos projetos, sai do backend isolado para uma atuacao mais completa: produto, mobile, dados, automacao, AI workflows e release.
+**PT-BR:** eu construo produtos mobile-first de ponta a ponta, juntando app, backend, IA, QA, loja e opera??o.
 
-**EN**
-
-I build mobile-first products with **Expo, React Native, TypeScript, Supabase, and applied AI**. My current focus is turning ideas into real apps: architecture, data modeling, auth, security, mobile UX, QA, builds, store readiness, and production operations.
-
-My recent work moved beyond isolated backend services into full product delivery: mobile, data, automation, AI workflows, and release execution.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://mov-arena.eduardobertin.com.br">
+        <img src="https://mov-arena.eduardobertin.com.br/assets/images/login-background.png" alt="MOV Arena" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://pique-esconde.eduardobertin.com.br">
+        <img src="https://raw.githubusercontent.com/edubertin/Pique-esconde/main/apps/mobile/assets/images/pique-esconde-store-cover.png" alt="Pique Esconde" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>MOV Arena</strong><br />
+      Premium gamified fitness challenge app for studios.<br />
+      <a href="https://mov-arena.eduardobertin.com.br">Public site</a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Pique Esconde</strong><br />
+      Physical-digital hide-and-seek game with GPS proximity radar.<br />
+      <a href="https://pique-esconde.eduardobertin.com.br">Web demo</a> ? <a href="https://github.com/edubertin/Pique-esconde">Repository</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Main Work
+## What I Am Building
 
 ### MOV Arena
 
-**Private product repository | Public site:** [mov-arena.eduardobertin.com.br](https://mov-arena.eduardobertin.com.br)
+A private production app for fitness studios and challenge communities.
 
-MOV Arena is a premium gamified fitness challenge app for studios and their communities.
+**Public surface:** [mov-arena.eduardobertin.com.br](https://mov-arena.eduardobertin.com.br)
 
-What it includes:
+Built with:
 
-- Expo React Native mobile app with TypeScript
-- Supabase Auth, Postgres, Storage, Edge Functions, and RLS-first design
-- AI-assisted workout extraction from proof images
-- AI avatar generation and gamified identity
-- Rankings, XP, achievements, rewards, activity feed, and admin audit flows
-- Sentry observability and sanitized error handling
-- EAS builds, TestFlight/App Store path, Google Play preparation, and release documentation
-- Store/legal/support site, QA evidence, ADRs, specs, and production readiness docs
+- Expo React Native, TypeScript, Expo Router, EAS Build
+- Supabase Auth, Postgres, Storage, Edge Functions, and RLS-first architecture
+- AI-assisted workout extraction and AI avatar generation
+- Rankings, XP, achievements, rewards, admin audit flows, and activity feed
+- Sentry observability, sanitized error handling, release docs, QA evidence, and store readiness
 
-**What this project represents:** end-to-end product engineering. Not just coding screens, but designing the system, shipping the mobile app, preparing the stores, protecting user data, and operating the release path.
+**Signal:** this is my strongest product-engineering work: mobile app, backend, data protection, AI workflow, release path, and operational documentation in one system.
 
 ### Pique Esconde
+
+A mobile-first physical game for groups: create a room, invite players, hide, seek, and use a proximity radar without exposing exact location.
 
 **Repository:** [github.com/edubertin/Pique-esconde](https://github.com/edubertin/Pique-esconde)  
 **Web demo:** [pique-esconde.eduardobertin.com.br](https://pique-esconde.eduardobertin.com.br)
 
-A physical-digital hide-and-seek mobile game with temporary rooms, realtime lobby, QR/invite flow, GPS proximity radar, and privacy by design.
+Built with:
 
-Highlights:
-
-- Expo, React Native, Expo Router, TypeScript
+- Expo React Native, TypeScript, Expo Router
 - Supabase Realtime and Postgres migrations
-- Temporary rooms, lobby sync, rematch flow, QR and invite links
-- GPS used during active matches without exposing exact maps
-- Social sharing without coordinates, routes, or addresses
-- Google Play internal testing path and manual QA documentation
+- Temporary rooms, lobby sync, QR/invite flow, rematch, and game states
+- GPS permission flow, privacy-by-design radar, and no exact map exposure
+- Play Store internal testing path and manual QA records
 
-**What this project represents:** creative mobile product thinking, realtime interaction, location constraints, privacy-aware UX, and game-like app design.
+**Signal:** realtime mobile interaction, location constraints, privacy-aware game UX, and release discipline.
 
 ### rentED
 
+A property management platform with AI-assisted rental contract ingestion.
+
 **Repository:** [github.com/edubertin/project_rentED](https://github.com/edubertin/project_rentED)
 
-A property management platform combining FastAPI, Next.js, PostgreSQL, Docker, Redis/RQ, and AI-assisted contract ingestion.
+Built with:
 
-Highlights:
+- FastAPI, Next.js, PostgreSQL, SQLAlchemy, Alembic
+- Docker Compose, Redis/RQ, document storage, event logs
+- OpenAI/LangChain workflows for structured extraction from contracts
+- Owner-aware access control and provider work-order flows
 
-- FastAPI backend and Next.js dashboard
-- PostgreSQL, SQLAlchemy, Alembic, Docker Compose
-- OpenAI/LangChain document ingestion and structured data extraction
-- Owner-aware access control, documents, work orders, provider portal, event logs
-- Architecture decision records and security-focused workflow notes
-
-**What this project represents:** my backend foundation: data modeling, APIs, async workflows, document processing, and maintainable system design.
+**Signal:** my backend foundation: APIs, data modeling, async workflows, document processing, and maintainable architecture.
 
 ---
 
-## Stack I Am Using Now
+## Current Stack
 
-**Mobile and product**
-
-- Expo / React Native
-- Expo Router
-- TypeScript
-- EAS Build
-- App Store / TestFlight / Google Play workflows
-- Mobile QA and release documentation
-
-**Backend and data**
-
-- Supabase Auth
-- Supabase Postgres
-- Row Level Security
-- Supabase Storage
-- Supabase Edge Functions
-- PostgreSQL modeling and migrations
-- FastAPI / SQLAlchemy / Alembic
-
-**AI and automation**
-
-- OpenAI APIs
-- Anthropic Claude via server-side functions
-- LangChain / AI-assisted extraction workflows
-- Image generation workflows
-- Product automation and QA support
-
-**Operations**
-
-- Sentry observability
-- Docker / Docker Compose
-- GitHub Actions
-- Release readiness docs
-- Privacy, support, and store compliance materials
+| Area | Tools |
+|---|---|
+| Mobile | Expo, React Native, Expo Router, TypeScript, EAS Build |
+| Backend | Supabase, Postgres, RLS, Storage, Edge Functions, FastAPI |
+| AI | OpenAI, Anthropic, LangChain, image generation, extraction workflows |
+| Release | TestFlight, App Store, Google Play, GitHub Actions, Sentry |
+| Product quality | QA checklists, smoke tests, ADRs, specs, release readiness docs |
 
 ---
 
-## How I Think
+## How I Work
 
 I care about products that actually ship.
 
-That means clear models, protected data, simple user flows, documented decisions, and releases that can survive real users. I like building the whole path: from idea and architecture to app screens, backend rules, AI workflows, QA evidence, and store submission.
-
-I still value low-entropy systems, but now the goal is bigger: **software that becomes a usable product**.
+I like clear models, protected data, simple user flows, documented decisions, and releases that can survive real users. My recent work is not just about writing code; it is about carrying the whole product path: idea, architecture, mobile UX, backend rules, AI workflows, QA evidence, store constraints, and production operation.
 
 ---
 
-## Contact
+## Availability
 
 Based in Brazil. Italian citizenship. Open to remote and international opportunities.
