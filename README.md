@@ -4,7 +4,7 @@
 
 I build apps from idea to shipped product: mobile experience, backend rules, data modeling, AI-assisted flows, privacy constraints, store readiness, and production support.
 
-**PT-BR:** eu construo produtos mobile-first de ponta a ponta, juntando app, backend, IA, QA, loja e opera??o.
+**PT-BR:** eu construo produtos mobile-first de ponta a ponta, juntando app, backend, IA, QA, loja e operacao.
 
 <table>
   <tr>
@@ -28,7 +28,7 @@ I build apps from idea to shipped product: mobile experience, backend rules, dat
     <td width="50%" valign="top">
       <strong>Pique Esconde</strong><br />
       Physical-digital hide-and-seek game with GPS proximity radar.<br />
-      <a href="https://pique-esconde.eduardobertin.com.br">Web demo</a> ? <a href="https://github.com/edubertin/Pique-esconde">Repository</a>
+      <a href="https://pique-esconde.eduardobertin.com.br">Web demo</a> / <a href="https://github.com/edubertin/Pique-esconde">Repository</a>
     </td>
   </tr>
 </table>
